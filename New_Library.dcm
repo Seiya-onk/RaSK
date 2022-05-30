@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0473460001
+D CONN RCPT USB2.0 MICRO B SMD R/A
+K WM17141CT-ND 47346
+F https://www.molex.com/pdm_docs/sd/473460001_sd.pdf
+$ENDCMP
+#
+$CMP 28086
+D ADDRESS LED MODULE SER RGB 10PK
+K 28086-ND
+F https://www.parallax.com/sites/default/files/downloads/28085-WS2812B-RGB-LED-Datasheet.pdf
+$ENDCMP
+#
+$CMP PKMCS0909E4000-R1
+D AUDIO PIEZO TRANSDUCER 12.5V SMD
+K 490-9647-1-ND PK
+F https://www.murata.com/~/media/webrenewal/products/sound/sounder/vppt-buzj083-d.ashx
+$ENDCMP
+#
+#End Doc Library

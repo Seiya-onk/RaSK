@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name KUT_Connector)(type KiCad)(uri "C:/Users/kodai Yamamoto/Desktop/RaSK/電装/Kicadコンポーネント(ロボ部)/KUT_Connector.pretty-master/KUT_Connector.pretty-master")(options "")(descr ""))
+  (lib (name KUT_Device)(type KiCad)(uri "C:/Users/kodai Yamamoto/Desktop/RaSK/電装/Kicadコンポーネント(ロボ部)/KUT_Device.pretty-master")(options "")(descr ""))
+  (lib (name KUT)(type KiCad)(uri C:/Users/onksi/OneDrive/デスクトップ/RaSK/KUT-KiCad-Library-master/KUT-KiCad-Library-master/KUTKiCad_footprint.pretty)(options "")(descr ""))
+)
